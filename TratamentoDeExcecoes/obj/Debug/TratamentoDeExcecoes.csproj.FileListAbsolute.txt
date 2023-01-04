@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.exe.config
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.exe
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.pdb
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.exe
+C:\Users\User\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.pdb
